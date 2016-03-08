@@ -1,2 +1,1 @@
-# 2015-spring
-CSCI503 Spring 2015
+# CSCI503 Spring 2015
